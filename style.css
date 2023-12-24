@@ -1,0 +1,16 @@
+.nav_list{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:blue;
+    font-weight: bold;
+}
+.h1{
+    background-color: aqua;
+    text-transform: lowercase;
+    text-align: center;
+    width: 150px;
+    height: 70px;
+    vertical-align: middle;
+}
+.p{
+    text-decoration:line-through;
+}

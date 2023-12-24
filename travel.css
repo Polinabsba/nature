@@ -1,0 +1,129 @@
+.container{
+    display: flex;
+    width: 100%;
+    height: 300vh;
+    flex-direction: column;
+}
+.w1{
+    width: 100%;
+    height: 80vh;
+    background-image: url("tr4.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.p{
+    width: 100%;
+    height: 7vh;
+    font-size: 15vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.p1{
+    font-size: 5vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: aliceblue;
+    margin: 2vh;
+}
+.p2{
+    font-size: 2vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.p3{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: aliceblue;
+}
+.p4{
+    font-size:3vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.p5{
+    font-size: 2vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    text-align: center;
+}
+.w2{
+    width: 100%;
+    height: 105vh;
+    background-color: rgb(190, 71, 71);
+}
+.button{
+    background-color:rgb(250, 112, 112);
+    width: 25vh;
+    height: 6vh;
+    margin: 3vh;
+    border:  2px solid white;
+}
+.button:hover{
+    background: rgb(146, 51, 51);
+	color: white;
+}
+.b1{
+    margin-left: 20vh;
+}
+.u{
+    width:60%;
+    height: 60vh;
+    margin-left:40vh;
+    margin-top: 5vh;
+    border-radius: 15px;
+}
+.w3{
+    width: 100%;
+    height: 80vh;
+    background-color:rgb(157, 162, 163);
+}
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+.w4{
+    display: flex;
+    width: 100%;
+    height: 15vh;
+    background-color:rgb(230, 230, 230);
+    flex-direction: row;
+}
+.b2{
+    width: 8.5vh;
+    height: 8.5vh;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.b3{
+    width: 10vh;
+    height: 10vh;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.w5{
+    display: flex;
+    width: 100%;
+    height: 25vh;
+    background-color:rgb(230, 230, 230);
+    flex-direction: column;
+}
+.f1{
+    font-size: 4vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(163, 163, 163);
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.f2{
+    font-size: 2vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(28, 29, 29);
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+.a{
+    text-decoration: dotted;
+}
